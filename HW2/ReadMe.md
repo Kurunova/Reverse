@@ -1,0 +1,1 @@
+python bruteforce_opcodes.py
